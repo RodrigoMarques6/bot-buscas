@@ -54,7 +54,7 @@ console.log('Campo de pesquisa (input) encontrado');
     console.log('Enter pressionado, aguardando resultados');
 
     // Aguarda até que os resultados sejam carregados
-    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
     console.log('Resultados carregados');
 
     // Espera 5 segundos
@@ -82,7 +82,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -113,7 +113,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -143,7 +143,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -173,7 +173,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -203,7 +203,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -233,7 +233,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -263,7 +263,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -294,7 +294,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -325,7 +325,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -355,7 +355,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -386,7 +386,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -416,7 +416,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -446,7 +446,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -476,7 +476,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -506,7 +506,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -537,7 +537,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -567,7 +567,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -598,7 +598,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -629,7 +629,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -660,7 +660,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -691,7 +691,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -721,7 +721,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -752,7 +752,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -782,7 +782,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
@@ -812,7 +812,7 @@ console.log('Campo de pesquisa (input) encontrado');
      console.log('Enter pressionado, aguardando resultados');
  
      // Aguarda até que os resultados sejam carregados
-     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 50000 });
+     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 100000 });
      console.log('Resultados carregados');
 
      // Espera 5 segundos
